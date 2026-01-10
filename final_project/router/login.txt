@@ -1,0 +1,7 @@
+theia@theia-nfe15rajab:/home/project$ curl -X POST http://localhost:5000/register \
+-H "Content-Type: application/json" \
+-d '{"username": "testUser", "password": "testPassword"}'
+{"message":"user successfully registercurl -X POST http://localhost:5000/customer/login \OST http://local
+-H "Content-Type: application/json" \
+-d '{"username": "testUser", "password": "testPassword"}'
+User successfully logged intheia@theia-nfe15rajab:/home/project$ 
